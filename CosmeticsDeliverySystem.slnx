@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CosmeticsDeliverySystem.Tests/CosmeticsDeliverySystem.Tests.csproj" />
+  <Project Path="CosmeticsDeliverySystem/CosmeticsDeliverySystem.csproj" />
+</Solution>
